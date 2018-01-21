@@ -1,4 +1,4 @@
 Estudo node
-npm init
-npm install express -save
+npm init.
+npm install express -save.
   
